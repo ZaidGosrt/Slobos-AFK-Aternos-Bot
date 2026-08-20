@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "bdbdrs.aternos.me",
+    "port": 47688,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "I'm just an AFK Bot",
         "I like to play Minecraft!"
       ]
     },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1539875914777886741/vzPjsJ7-UBA9N7cinvqGi4vb2dLYBhaMzkK-A4Nr7eYr1mPa8NAnIllHxksAn9mG30Vh",
     "events": {
       "connect": true,
       "disconnect": true,
